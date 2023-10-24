@@ -1,0 +1,13 @@
+#root {
+  max-width: 1280px;
+  margin: auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.text-area {
+  resize: none;
+  height: 80vh;
+  width: 70vw;
+  font-size: 1.5rem;
+}
